@@ -1,13 +1,19 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "Patrick's Data Blog"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-[permalinks]
-    post = "/:year/:month/:day/:slug/"
+# The URL of your site.
+# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+# baseurl = 
+
+
+
+#[permalinks]
+#    post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
     name = "About"
