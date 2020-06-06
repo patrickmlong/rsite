@@ -40,6 +40,6 @@ Hi! I'm Patrick. I'm a curiosity-driven data scientist with a background in mach
 
 I'm passionate about combining data with curiousity to make healthcare better for everyone.  
 
-I also enjoy supporting aspiring analytics professionals with their career goals. 
+I also enjoy supporting aspiring analytics professionals with their career goals. Feel free to reach out :) 
 
 
