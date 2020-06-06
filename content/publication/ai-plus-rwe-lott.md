@@ -17,7 +17,7 @@ authors:
 - Nadea Leavitt
 - Orla Doyle
 - John Rigg
-doi: 'http://www.pmsa.org/jpmsa-vol08-article07'
+doi: ''
 publishDate: '2020-04-03T16:08:45+10:00'
 publication_types:
   - '2'
@@ -26,7 +26,7 @@ publication_short: '*PMSA*'
 abstract: ''
 summary: ''
 featured: no
-url_pdf: ~
+url_pdf: 'http://www.pmsa.org/jpmsa-vol08-article07'
 url_code: ~
 url_dataset: ~
 url_poster: ~

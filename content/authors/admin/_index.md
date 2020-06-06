@@ -18,6 +18,7 @@ interests:
 - Applied AI in Healthcare
 - Career Mentorship
 - Algorithmic Fairness
+- Biology
 organizations:
 - name: 
   url: ""
