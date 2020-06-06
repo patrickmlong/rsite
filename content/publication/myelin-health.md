@@ -4,8 +4,7 @@ author: Patrick Long, Gabriel Corfas
 date: '2014-11-01'
 slug: myelin-health
 categories:
-  - Publication
-tags:
+- Publication
 - myelin
 authors:
 - Patrick Long
