@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include applied data science, neurobiology and genetics. 
-  matter.
+bio: My research interests include applied machine learning, neurobiology and healthcare.
 education:
   courses:
   - course: Postdoc 
@@ -17,8 +16,8 @@ education:
 email: ""
 interests:
 - Applied AI in Healthcare
-- Algorithmic Fairness
 - Career Mentorship
+- Algorithmic Fairness
 organizations:
 - name: 
   url: ""
@@ -38,5 +37,9 @@ user_groups:
 ---
 
 Hi! I'm Patrick. I'm a curiosity-driven data scientist with a background in machine learning, neuroscience and tech transfer. I specialize in applying statistical models to predict and improve healthcare outcomes with particular expertise in ensemble algorithms and imbalanced data methodologies. I hold a PhD in neuroscience where I investigated therapeutic strategies to combat nervous system disease. I have supported machine learning innovations in the commercial and clinical settings in areas such as disease diagnosis, therapy initiation and patient progression.
+
+I'm passionate about combining data with curiousity to make healthcare better for everyone.  
+
+I also enjoy supporting aspiring analytics professionals with their career goals. 
 
 
