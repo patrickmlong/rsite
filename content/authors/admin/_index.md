@@ -1,48 +1,42 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: My research interests include applied data science, neurobiology and genetics. 
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Postdoc 
+    institution: Harvard University and University of Michigan 
+    year:
+  - course: PhD in Neuroscience 
+    institution: University of Vermont
+    year: 
+  - course: BA in Psychology
+    institution: University of Oregon
+    year: 
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Applied AI in Healthcare
+- Algorithmic Fairness
+- Career Mentorship
 organizations:
-- name: Stanford University
+- name: 
   url: ""
-role: Professor of Artificial Intelligence
+role: Data Scientist
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/patrickmarklong/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/patrickmlong
 superuser: true
-title: Nelson Bighetti
+title: Patrick Long
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I'm Patrick. I'm a curiosity-driven data scientist with a background in machine learning, neuroscience and tech transfer. I specialize in applying statistical models to predict and improve healthcare outcomes with particular expertise in ensemble algorithms and imbalanced data methodologies. I hold a PhD in neuroscience where I investigated therapeutic strategies to combat nervous system disease. I have supported machine learning innovations in the commercial and clinical settings in areas such as disease diagnosis, therapy initiation and patient progression.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
