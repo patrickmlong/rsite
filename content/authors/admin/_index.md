@@ -29,7 +29,7 @@ social:
   link: https://www.linkedin.com/in/patrickmarklong/
 - icon: github
   icon_pack: fab
-  link: https://github.com/patrickmlong
+  link: https://github.com/pkmklong
 superuser: true
 title: Patrick Long
 user_groups:
