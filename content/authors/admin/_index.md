@@ -31,7 +31,7 @@ social:
   icon_pack: fab
   link: https://github.com/patrickmlong
 superuser: true
-title: ""
+title: Patrick Long
 user_groups:
 - Researchers
 - Visitors
