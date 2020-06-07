@@ -22,6 +22,11 @@
 #  name = "Research"
 #  url = "#posts"
 #  weight = 30
+
+[[main]]
+  name = "About"
+  url = "#about"
+  weight = 10
   
 [[main]]
   name = "Topics"
