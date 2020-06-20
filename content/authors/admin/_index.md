@@ -4,7 +4,7 @@ authors:
 bio: My research interests include applied machine learning, neurobiology and healthcare.
 education:
   courses:
-  - course: Postdoc 
+  - course: Postdoc
     institution: Harvard University and University of Michigan 
     year:
   - course: PhD in Neuroscience 
@@ -18,7 +18,7 @@ interests:
 - Applied AI in Healthcare
 - Career Mentorship
 - Algorithmic Fairness
-- Biology
+- Biology 
 organizations:
 - name: 
   url: ""
