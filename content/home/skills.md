@@ -29,6 +29,11 @@ subtitle = ""
   icon = "hospital"
   icon_pack = "fas"
   name = "Healthcare Data"
+  
+#[[feature]]
+#  icon = "flask"
+# icon_pack = "fas"
+#  name = "Life Science"
 
 # Uncomment to use emoji icons.
 # [[feature]]
