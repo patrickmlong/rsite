@@ -11,15 +11,6 @@ tags:
   - prefrontal cortex
   - undernutrition
 #authors:
-#  - Berardino BG
-#  - Chertoff M
-#  - Gianatiempo O
-#  - Alberca CD
-#  - Priegue R
-#  - Fiszbein A
-#  - Long P
-#  - Corfas G
-#  - Cánepa ET
 doi: 'https://doi.org/10.1145/3368555.3384453'
 publishDate: '2020-04-03T16:08:45+10:00'
 publication_types:

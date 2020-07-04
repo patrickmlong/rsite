@@ -1,6 +1,6 @@
 ---
 title: Using SNOMED to automate clinical concept mapping
-#author: Shaun  Gupta, Frederik  Dieleman, Patrick  Long, Orla M Doyle, #Nadejda  Leavitt
+#author: 
 date: '2020-04-01'
 slug: snomed
 categories:
@@ -9,11 +9,6 @@ tags:
   - machine learning
   - healthcare
 #authors:
-#  - Shaun Gupta
-#  - Frederik  Dieleman
-#  - Patrick  Long
-#  - Orla M Doyle
-#  - Nadejda  Leavitt
 doi: 'https://doi.org/10.1145/3368555.3384453'
 publishDate: '2020-04-03T16:08:45+10:00'
 publication_types:
