@@ -1,6 +1,6 @@
 ---
 title: AI Plus Real-World Data for Early Prediction of Disease Progression and Operationalized Precision Targeting
-author: Brian Malpede, Stephanie Roy, Patrick Long, Emin Ozkan,  Ryan Hopson, Nadea Leavitt,  Orla Doyle, John Rigg
+#author: Brian Malpede, Stephanie Roy, Patrick Long, Emin Ozkan,  Ryan #Hopson, Nadea Leavitt,  Orla Doyle, John Rigg
 date: '2020-04-01'
 slug: ai-plus-rwe-lott
 categories:

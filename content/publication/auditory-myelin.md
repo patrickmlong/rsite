@@ -1,6 +1,6 @@
 ---
 title: Myelin Development, Plasticity, and Pathology in the Auditory System
-author: Patrick Long, Guoqiang Wan, Michael T Roberts, Gabriel Corfas
+#author: Patrick Long, Guoqiang Wan, Michael T Roberts, Gabriel Corfas
 date: '2017-09-01'
 slug: auditory-myelin
 categories:
@@ -11,11 +11,11 @@ tags:
 - deafness
 - hearing
 - myelin
-authors:
-- Patrick Long
-- Guoqiang Wan
-- Michael T Roberts
-- Gabriel Corfas
+#authors:
+#- Patrick Long
+#- Guoqiang Wan
+#- Michael T Roberts
+#- Gabriel Corfas
 doi: '10.1002/dneu.22538'
 publishDate: '2020-04-03T16:08:45+10:00'
 publication_types:
