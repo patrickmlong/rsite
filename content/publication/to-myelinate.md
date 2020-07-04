@@ -1,6 +1,6 @@
 ---
 title: To learn is to myelinate
-author: ''
+#author: ''
 date: '2014-10-01'
 slug: to-myelinate
 categories:
@@ -8,8 +8,6 @@ categories:
 tags:
 - myelin
 #authors:
-#- Patrick Long
-#- Gabriel Corfas
 doi: '10.1126/science.1261127'
 publishDate: '2014-10-03T16:08:45+10:00'
 publication_types:

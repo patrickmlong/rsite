@@ -1,14 +1,12 @@
 ---
 title: Dynamic Regulation of Myelination in Health and Disease
-#author: Patrick Long, Gabriel Corfas
+#author:
 date: '2014-11-01'
 slug: myelin-health
 categories:
 - Publication
 - myelin
 #authors:
-#- Patrick Long
-#- Gabriel Corfas
 doi: '10.1001/jamapsychiatry.2014.1049'
 publishDate: '2014-11-03T16:08:45+10:00'
 publication_types:
